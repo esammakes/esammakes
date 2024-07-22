@@ -1,7 +1,7 @@
 hi!! i'm emily sam ✌ <br>
 <p style="color:purple">
   🚀 i'm a Data Science major @ Purdue & 2x Disney SWE Intern <br>
-  🗣️ i'm currently interested in swe, cloud computing, and data science (data analysis, data visualization, and ml)<br>
+  🗣️ i'm currently interested in full stack swe, cloud computing, and data science (data analysis, data visualization, and ml)<br>
   🤝 i enjoy combining tech with topics like art & music, environmental science, and mental health
 </p>
 
